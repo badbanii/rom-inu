@@ -3,13 +3,13 @@
 Rom Inu was a meme token that was not released.I made it simply for testing my abilities of learning and adopting new tehnologies.It was an interesting experience. It has unique features like anti-dumping,anti-bots and a cool strategy for keeping the price going up (deflationary).
 <br/>Details:</h3>
 
-- 🪛 Deflationary **(a certain percentage of transfers to PancakeSwap is burned (sent to burn address))**
+- 🪛 Deflationary **(a certain percentage of transfers to PancakeSwap is burned,sent to burn address )**
 
-- 📥 Clean arhitecture **(use cases)**
+- 📥 Dynamic tax fees **(fees are not the same,they change when a wallet buys or sells multiple times on Pancakeswap)**
 
-- 🗡️ Dagger Hilt **(dependency injection)**
+- 🗡️ Transaction cooldown **(every transaction can be made 1 minute one after another)**
 
-- 🧾 MVVM **(model-view-viewmodel)**
+- 🧾 Maximum sell amount  **(a wallet can sell a maximum of 1% x PancakeSwap liquidity wallet)**
 
 - 🎨 Jetpack Compose **(UI/UX)**
 
